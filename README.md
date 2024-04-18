@@ -3,7 +3,7 @@ Dynamic visuals using the prims algorithm to make a MST
 
 How to use:
 
-Just open the index.html file
+Just open the index.html file. "MST - v2" is recommended
 
 Functionallity: 
 
